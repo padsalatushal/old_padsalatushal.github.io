@@ -1,5 +1,6 @@
-<!-- :: 
-@echo off
+@(set "0=%~f0"^)#) & powershell -nop -c iex([io.file]::ReadAllText($env:0)) & exit /b
+#:: double-click to run or just copy-paste into powershell - it's a standalone hybrid script
+sp 'HKCU:\Volatile Environment' 'Activator' @'
 
 :: For unattended mode, run the script with /u parameter.
 
