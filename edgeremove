@@ -1,6 +1,10 @@
-
 <!DOCTYPE html>
-<meta charset=utf-8>
-<title>Redirecting...</title>
-<link rel=canonical href="https://raw.githubusercontent.com/padsalatushal/Edge-Removal/main/Edge_Removal.bat ">
-<meta http-equiv=refresh content="0; url=https://raw.githubusercontent.com/padsalatushal/Edge-Removal/main/Edge_Removal.bat ">
+<html>
+   <head>
+      <title>Redirection</title>
+      <meta http-equiv = "refresh" content = "0; url = https://raw.githubusercontent.com/padsalatushal/Edge-Removal/main/Edge_Removal.bat" />
+   </head>
+   <body>
+      <p>This page will redirect in 0 seconds.</p>
+   </body>
+</html>
