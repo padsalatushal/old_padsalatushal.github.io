@@ -1,3 +1,4 @@
+<!-- :: 
 @echo off
 
 :: For unattended mode, run the script with /u parameter.
